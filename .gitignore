@@ -1,0 +1,3 @@
+api/db/db.db
+api/app/*.secrets.env
+api/*/__pycache__/
